@@ -1,5 +1,5 @@
 # Assembly_language_assignment_problems
-These are some problems given by our Computer organisation faculty
+These are some problems given by our Computer organisation faculty like given below...
 
 In this assignment there are some problems for you and it will help you in your assignments.
   <b>
